@@ -42,7 +42,6 @@ const maryia = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Redux, Node, Angular, Angularjs, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```
 
