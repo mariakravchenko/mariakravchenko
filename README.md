@@ -40,11 +40,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mariakravchenko/mariakravchenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=mariakravchenko&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=mariakravchenko" />
 </a>
-<a href="https://github.com/mariakravchenko/mariakravchenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariakravchenko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Meryia's GitHub Stats" />
-</a>
+
 
 
 <!-- links to social media icons -->
