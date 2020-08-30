@@ -21,7 +21,7 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 ![](https://img.shields.io/badge/Code-Angular.js-informational?style=flat&logo=angularjs&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=f59fc6)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=f59fc6)
 
