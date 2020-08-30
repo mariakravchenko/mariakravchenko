@@ -40,7 +40,7 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/mariakravchenko/mariakravchenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariakravchenko&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariakravchenko&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/mariakravchenko/mariakravchenko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mariakravchenko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Meryia's GitHub Stats" />
@@ -68,11 +68,5 @@
 [3]: https://www.linkedin.com/in/heinz-martin/
 
 
-<!-- Resources -->
-<!-- Icons: https://simpleicons.org/ -->
-<!-- GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
-<!-- Emojis: https://emojipedia.org/emoji/ -->
-<!-- HTML Emojis: https://www.fileformat.info/index.htm -->
-<!-- Shields: https://shields.io/ -->
-<!-- Awesome GitHub Profile README: https://github.com/abhisheknaiidu/awesome-github-profile-readme -->
+
 
