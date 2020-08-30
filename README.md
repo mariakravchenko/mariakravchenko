@@ -42,7 +42,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariakravchenko&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariakravchenko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Maryia's github stats](https://github-readme-stats.vercel.app/api/?username=mariakravchenko&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true) 
 
 
