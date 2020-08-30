@@ -1,5 +1,5 @@
 <div align="center">
-  <h3> Hello World <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
+  <h1> Hello World <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
 </div>
 <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/header.jpg">
 <div align="center">
@@ -38,11 +38,5 @@
 <h3> A little more about me... </h3>
 
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=mariakravchenko&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![Maryia's github stats](https://github-readme-stats.vercel.app/api?username=mariakravchenko&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff&count_private=true) 
 
 
