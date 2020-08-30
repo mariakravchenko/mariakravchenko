@@ -1,16 +1,16 @@
 <div align="center">
-<h1> Hello World <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
-
-<div align="center">
-<h3> 👩🏻 Maryia Krauchanka | 👩🏻‍💻 Software Engineer | 🌏 Belarus </h3>
+  <h1> Hello World <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
 </div>
-
-My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from Belarus currently working for EPAM. You can find me on <a href="https://www.linkedin.com/in/maryia-krauchanka-dev/" target="_blank"> <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/linkedin.png" width="20px"></a>.
-
-
+<img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/header.jpg">
+<div align="center">
+  <h3> 👩🏻 Maryia Krauchanka | 👩🏻‍💻 Software Engineer | 🌏 Belarus </h3>
 </div>
 <div align="center">
-<h1> 🔧 Technologies & Tools </h1>
+  My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from Belarus currently working for EPAM. You can find me on <a href="https://www.linkedin.com/in/maryia-krauchanka-dev/" target="_blank"> <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/linkedin.png" width="20px"></a>.
+</div>
+
+<div align="center">
+  <h1> 🔧 Technologies & Tools </h1>
 </div>
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=2bbc8a&color=f59fc6)
