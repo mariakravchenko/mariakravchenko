@@ -1,6 +1,9 @@
 <div align="center">
-<h1>  Hello, folks! <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
+<h1> Hello World <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/wave.gif" width="30px"></h1>
 
+<div align="center">
+<h3> 👩🏻 Maryia Krauchanka | 👩🏻‍💻 Software Engineer | 🌏 Belarus </h3>
+</div>
 
 My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from Belarus currently working for EPAM. You can find me on <a href="https://www.linkedin.com/in/maryia-krauchanka-dev/" target="_blank"> <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/linkedin.png" width="20px"></a>.
 
