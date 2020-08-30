@@ -20,10 +20,15 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-Angular.js-informational?style=flat&logo=angularjs&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=f59fc6)
+
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-Yarn-informational?style=flat&logo=yarn&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/Tools-Babel-informational?style=flat&logo=babel&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/Tools-Sass-informational?style=flat&logo=sass&logoColor=white&color=f59fc6)
+
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=f59fc6)
