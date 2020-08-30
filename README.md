@@ -35,14 +35,3 @@
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=2bbc8a&color=f59fc6) and more ...
 
 
-<h3> A little more about me... </h3>
-
-```javascript
-const maryia = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Angular, Angularjs, Docker],
-}
-```
-
-
