@@ -15,7 +15,7 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f59fc6)
-![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=intellij-idea&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visualstudiocode&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=f59fc6)
