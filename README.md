@@ -37,11 +37,7 @@
 
 <h3> A little more about me... </h3>
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/mariakravchenko/mariakravchenko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=mariakravchenko" />
-</a>
 
 
 
