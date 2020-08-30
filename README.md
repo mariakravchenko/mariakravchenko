@@ -13,7 +13,7 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 <h1> 🔧 Technologies & Tools </h1>
 </div>
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f59fc6)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=2bbc8a&color=f59fc6)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Editor-VSC-informational?style=flat&logo=visual-studio-code&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=f59fc6)
@@ -33,3 +33,7 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=f59fc6)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=f59fc6) and more ...
+
+
+<h3> A little more about me... </h3>
+
