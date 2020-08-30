@@ -5,6 +5,8 @@
 My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from Belarus currently working for EPAM. You can find me on <a href="https://www.linkedin.com/in/maryia-krauchanka-dev/" target="_blank"> <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/linkedin.png" width="20px"></a>.
 
 
+</div>
+
 <h2> 🔧 Technologies & Tools </h2>
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
@@ -19,4 +21,3 @@ My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from B
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-</div>
