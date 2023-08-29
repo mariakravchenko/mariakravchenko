@@ -3,7 +3,7 @@
 </div>
 <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/header.jpg">
 <div align="center">
-  <h3> 👩🏻 Maryia Krauchanka | 👩🏻‍💻 Software Engineer | 🌏 Belarus </h3>
+  <h3> 👩🏻 Maryia Krauchanka | 👩🏻‍💻 Software Engineer | 🌏 Lithuania </h3>
 </div>
 <div align="center">
   My name is Maryia Krauchanka and I'm a full-Stack developer engineer. I'm from Belarus currently working for EPAM. You can find me on <a href="https://www.linkedin.com/in/maryia-krauchanka-dev/" target="_blank"> <img src="https://raw.githubusercontent.com/mariakravchenko/mariakravchenko/master/linkedin.png" width="20px"></a>.
