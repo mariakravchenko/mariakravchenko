@@ -72,6 +72,27 @@
     <img src="https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=angular&logoColor=2bbc8a&color=f59fc6"
          alt="">   
      <a>
+          <a>
+    <img src="https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+    <a>
+    <img src="https://img.shields.io/badge/Code-Elasticsearch-informational?style=flat&logo=elasticsearch&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+    <a>
+    <img src="https://img.shields.io/badge/Code-LangChain-informational?style=flat&logo=python&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+    <a>
+    <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+          <a>
+    <img src="https://img.shields.io/badge/Tech-LLM-informational?style=flat&logo=openai&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+    <a>
+    <img src="https://img.shields.io/badge/Tech-AI-informational?style=flat&logo=artificial-intelligence&logoColor=2bbc8a&color=f59fc6"
+         alt="">
+    <a>
+    <img src="https://img.shields.io/badge/Tech-Vector_Storage-informational?style=flat&logo=database&logoColor=2bbc8a&color=f59fc6"
+         alt="">
     <img src="https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=angular&logoColor=2bbc8a&color=f59fc6"
          alt="">     
         and more ...
